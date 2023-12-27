@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: 在函式 "enum Fl_Labeltype __cdecl fl_define_FL_SHADOW_LABEL(void)" (?fl_define_FL_SHADOW_LABEL@@YA?AW4Fl_Labeltype@@XZ)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: static int __cdecl Fl::run(void)" (?run@Fl@@SAHXZ)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Fl_Group::end(void)" (?end@Fl_Group@@QEAAXXZ)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: __cdecl Fl_Window::Fl_Window(int,int,char const *)" (??0Fl_Window@@QEAA@HHPEBD@Z)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Fl_Window::show(int,char * *)" (?show@Fl_Window@@QEAAXHPEAPEAD@Z)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: __cdecl Fl_Box::Fl_Box(int,int,int,int,char const *)" (??0Fl_Box@@QEAA@HHHHPEBD@Z)main 中參考了無法解析的外部符號
+D:\CCU_HW\Computational_Photography\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 6 個無法解析的外部符號
