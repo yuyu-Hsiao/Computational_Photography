@@ -1,9 +1,5 @@
 # 3D Ferris Wheel Scene with Interactive Controls
 
-### 學生資訊
-- **姓名**：蕭宥羽
-- **學號**：612415013
-- **E-mail**：horace70112@gmail.com
 - **作業環境**：Windows 11 64bit
 - **編譯器**：Visual Studio 2022
 
