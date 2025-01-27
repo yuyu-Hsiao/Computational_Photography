@@ -1,10 +1,6 @@
 # OpenGL Homework 1
 
-## 學生資訊
-- **姓名**: 蕭宥羽
-- **學號**: 612415013
-- **Email**: horae70112@gmail.com
-- **作業環境**: Windows 11 64bit
+- **作業系統**: Windows 11 64bit
 - **編譯器**: Visual Studio 2022
 
 ## 作業功能
