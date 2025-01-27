@@ -47,6 +47,9 @@
 
 ### 4. 增加顏色的選擇跟線段粗細的選擇
 
+## 成果展示
+[觀看影片](https://youtu.be/AbjdC7149s4)
+
 ## 參考資料
 1. [OpenGL 視窗分割與繪製](https://www.twblogs.net/a/5efcbe3a9644181341a11ec0)
 2. [OpenGL 圖形繪製與互動](https://blog.csdn.net/weixin_42631782/article/details/121316185)
