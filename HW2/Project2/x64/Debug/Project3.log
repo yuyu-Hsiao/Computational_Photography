@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\FL\Xutf8.h(24,10): fatal  error C1083: 無法開啟包含檔案: 'X11/X.h': No such file or directory
+  SMFLoader.cpp
+  正在產生程式碼...
