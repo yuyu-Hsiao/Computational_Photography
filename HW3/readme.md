@@ -1,32 +1,47 @@
-姓名：蕭宥羽
-學號：612415013
-e-mail：horace70112@gmail.com
-作業環境：Win11 64bit 
-編譯器：visual studio 2022
+# OpenGL Homework 3
 
-指定作業功能:
-1. AR 啟動!
-    -在螢幕上顯示出現實環境和由 marker產生出的河內塔
-    -利用 unity 和 vuforia 實現開發
+## AR 河內塔
+- **作業環境**: Windows 11 64bit  
+- **編譯器**: Visual Studio 2022  
 
-2. 利用 marker 來跟河內塔做互動
-    -用marker上面虛擬按鈕控制河內塔
-    -每次只能移動一個圓盤
-    -大盤不能疊在小盤上面
+---
 
-3. 用 unity 的按鈕實現離開跟開始的動作
+## 作業功能
 
+### 1. AR 啟動
+- 在螢幕上顯示現實環境和由 Marker 產生出的河內塔。
+- 利用 Unity 和 Vuforia 進行開發。
 
-Bonus:
-1. 在 marker 上添加虛擬按鈕
-2. 在遊戲尚未開始之前顯示start!!!，請玩家按壓按鈕開始遊戲
-3. 按下按鈕後開始計時遊戲時間
-4. 結束遊戲後會顯示 game over，並告知玩家遊玩所花費之時間
-5. 顯示個可愛的小女孩物在 marker 上，增加整體美觀度
+### 2. 利用 Marker 進行河內塔互動
+- 使用 Marker 上的虛擬按鈕控制河內塔。
+- 每次只能移動一個圓盤。
+- 大盤不能疊放在小盤上。
 
+### 3. Unity 按鈕功能
+- 使用 Unity 按鈕來實現開始與離開功能。
 
-參考:
-1. 與612415045同學討論，並一起完成此項作業
-2. https://developer.vuforia.com/
-3. https://assetstore.unity.com/packages/3d/haruko-69164
+---
+
+## 額外功能 (Bonus)
+
+### 1. 在 Marker 上添加虛擬按鈕
+- 在遊戲尚未開始前顯示 "Start!!!"，請玩家按壓按鈕開始遊戲。
+- 按下按鈕後開始計時遊戲時間。
+- 遊戲結束後，顯示 "Game Over"，並告知玩家遊玩所花費的時間。
+
+### 2. 增強視覺體驗
+- 在 Marker 上顯示可愛的小女孩模型，以提升整體美觀度。
+
+---
+
+## 成果展示
+[觀看影片](https://youtu.be/AIlzcaA41Bo)
+
+---
+
+## 參考資料
+- [Vuforia 開發文件](https://developer.vuforia.com/)
+- [Unity 資源商店 - Haruko 3D 模型](https://assetstore.unity.com/packages/3d/haruko-69164)
+
+---
 
