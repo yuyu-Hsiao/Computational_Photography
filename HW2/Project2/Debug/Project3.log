@@ -1,1 +1,19 @@
-﻿LINK : fatal error LNK1104: 無法開啟檔案 'C:\Users\Horace-Hsiao\Documents\GitHub\Computational_Photography\612415013_HW2\Project2\packages\nupengl.core.0.1.0.1\build\native\..\..\\build\native\lib\Win32\glew32.lib'
+﻿  main.cpp
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(29,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,32): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,32): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,45): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,45): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,57): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(364,57): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(394,46): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(394,32): warning C4244: '正在初始化': 將 'double' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(413,25): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(414,25): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(423,45): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(426,38): warning C4244: '引數': 將 'GLdouble' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(426,30): warning C4244: '引數': 將 'GLdouble' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(428,35): warning C4244: '引數': 將 'GLdouble' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(662,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\main.cpp(663,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project3.vcxproj -> D:\CCU\HW\Computational_Photography\作業\612415013_HW2\Project2\Debug\Project3.exe
