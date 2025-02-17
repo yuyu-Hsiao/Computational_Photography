@@ -67,6 +67,11 @@
 
 ---
 
+## 成果展示
+[觀看影片](https://youtu.be/lCebgPISVEM)
+
+---
+
 ## 參考資料
 - [SMFLoader.h](https://www.cs.ccu.edu.tw/~damon/graph/model/SMFLoader.h)
 - [SMFLoader.cpp](https://www.cs.ccu.edu.tw/~damon/graph/model/SMFLoader.cpp)
